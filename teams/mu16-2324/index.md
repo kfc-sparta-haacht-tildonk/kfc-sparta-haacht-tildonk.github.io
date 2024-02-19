@@ -1,11 +1,15 @@
 ---
 layout: default
-title: Team mu-16 2324
+title: mu-16 2324
 ---
 
-# Team mu-16 2324
+- [Part 1](/teams/mu16-2324/part1/)
+- [Part 2](/teams/mu16-2324/part2/)
 
-Welcome to Team mu-16 2324's page!
+## Members
 
-
-Stay tuned for more updates from Team mu-16 2324!
+- Player 1
+- Player 2
+- Player 3
+- Player 4
+- Player 5

@@ -1,9 +1,9 @@
-title: Your Organization's Name
+title: K.F.C. 
 description: >- # This is your site description
-  An example configuration for a GitHub Pages site using Jekyll.
+  SPARTA HAACHT TILDONK
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kfc-sparta-haacht-tildonk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
-theme: minima # or any other theme
+theme: Cayman # or any other theme
