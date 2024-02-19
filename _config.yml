@@ -6,4 +6,4 @@ url: "https://kfc-sparta-haacht-tildonk.github.io" # the base hostname & protoco
 
 # Build settings
 markdown: kramdown
-theme: Cayman # or any other theme
+theme: minima # or any other theme
