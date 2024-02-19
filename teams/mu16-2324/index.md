@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mu-16 2324
+title: mu20-2425
 ---
 
 - [Part 1](/teams/mu16-2324/part1/)

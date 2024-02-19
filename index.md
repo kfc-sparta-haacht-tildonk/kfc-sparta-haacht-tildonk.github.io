@@ -1,12 +1,7 @@
 ---
 layout: default
-title: Welcome to Our Organization
+title: Level 0
 ---
-
-# kfc-sparta-haacht-tildonk.github.io
-K.F.C. SPARTA HAACHT TILDONK
-
-Welcome to our GitHub Pages site. Here you'll find information about our teams and our projects.
 
 ## Our Teams
 
